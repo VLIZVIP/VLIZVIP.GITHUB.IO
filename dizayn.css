@@ -51,7 +51,7 @@ align-items: center;
 
         .page-button.active {
             background-color: transparent;
-            color: #FF0000;
+            color: #0fff00;
         }
 
         /* Menu content */
@@ -110,7 +110,7 @@ p {
   align-items: center;
   margin:0px;
   text-align: center;
-  color: #FF0000;
+  color: #0fff00;
 }
 .imgX{
   background: transparent;
@@ -121,13 +121,13 @@ p {
   height:16px;
 }
 .p1{
-  color:#FF0000;
+  color:#0fff00;
 }
 .serche{
   
   background:transparent;
-            border: 1px solid #FF0000;
-            box-shadow: 0 0 5px #FF0000 inset, 0 0 5px #FF0000;
+            border: 1px solid #0fff00;
+            box-shadow: 0 0 5px #0fff00 inset, 0 0 5px #0fff00;
             border-radius: 1px;
             padding: 1.5px;
             margin: 5px 0;
@@ -161,7 +161,7 @@ text-align: center;
 
 .headact{
   font-size: 17px;
-  color: #FF0000;
+  color: #0fff00;
   margin: 1px;
 padding:0;
   cursor: move;
