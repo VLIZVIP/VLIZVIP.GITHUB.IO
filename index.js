@@ -130,4 +130,3 @@ const KeyAuthApp = new KeyAuth(
         process.exit(0);
 
     }
-})();
