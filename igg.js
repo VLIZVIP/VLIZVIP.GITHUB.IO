@@ -59,11 +59,11 @@
 }
 
 function insta() {
-  location.href = "https://www.instagram.com/h4xstar/";
+  location.href = "https://wa.me/+18495154002";
 }
 
      function dis() {
-    location.href = "https://discord.gg/haxstar";
+    location.href = "https://discord.gg/vliz-vip-community-1076967400521605160";
 }
 
 function s101s() {
